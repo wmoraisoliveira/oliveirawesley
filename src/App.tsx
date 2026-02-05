@@ -4,7 +4,7 @@ function App() {
   return (
     <main className="home">
       <img
-        src="/Logo.png"
+        src={`${import.meta.env.BASE_URL}Logo.png`}
         alt="Logo"
         className="home__logo"
       />
