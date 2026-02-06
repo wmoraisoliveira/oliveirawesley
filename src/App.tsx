@@ -1,6 +1,6 @@
 import './App.scss'
 
-import Logo from './logo.png';
+import Logo from '../Logo.png';
 
 function App() {
   return (
