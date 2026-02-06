@@ -1,10 +1,12 @@
 import './App.scss'
 
+import Logo from './assets/Logo.png';
+
 function App() {
   return (
     <main className="home">
       <img
-        src={`${import.meta.env.BASE_URL}Logo.png`}
+        src={Logo}
         alt="Logo - Oliveira Wesley"
         className="home__logo"
       />
