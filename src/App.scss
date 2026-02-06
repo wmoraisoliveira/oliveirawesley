@@ -20,10 +20,7 @@
 }
 
 .home__logo {
-  width: clamp(160px, 32vw, 260px);
-  height: clamp(160px, 32vw, 260px);
-  object-fit: cover;
-  object-position: center;
+  width: 160px;
   opacity: 0;
   animation: fadeIn 1.2s ease-in-out forwards;
 }
