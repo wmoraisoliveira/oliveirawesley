@@ -11,7 +11,7 @@ function App() {
         className="home__logo"
       />
       <h1 className="home__title">Oliveira Wesley</h1>
-      <p className="home__subtitle">coming soon...</p>
+      <p className="home__subtitle">Coming Soon...</p>
     </main>
   )
 }
